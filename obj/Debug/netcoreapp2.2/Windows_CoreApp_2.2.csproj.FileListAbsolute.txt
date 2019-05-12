@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\Windows_CoreApp_2.2\Windows_CoreApp_2.2\bin\Debug\netcoreapp2.2\Windows_CoreApp_2.2.deps.json
+C:\Users\ADMIN\source\repos\Windows_CoreApp_2.2\Windows_CoreApp_2.2\bin\Debug\netcoreapp2.2\Windows_CoreApp_2.2.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Windows_CoreApp_2.2\Windows_CoreApp_2.2\bin\Debug\netcoreapp2.2\Windows_CoreApp_2.2.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Windows_CoreApp_2.2\Windows_CoreApp_2.2\bin\Debug\netcoreapp2.2\Windows_CoreApp_2.2.dll
+C:\Users\ADMIN\source\repos\Windows_CoreApp_2.2\Windows_CoreApp_2.2\obj\Debug\netcoreapp2.2\Windows_CoreApp_2.2.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\Windows_CoreApp_2.2\Windows_CoreApp_2.2\obj\Debug\netcoreapp2.2\Windows_CoreApp_2.2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Windows_CoreApp_2.2\Windows_CoreApp_2.2\obj\Debug\netcoreapp2.2\Windows_CoreApp_2.2.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Windows_CoreApp_2.2\Windows_CoreApp_2.2\obj\Debug\netcoreapp2.2\Windows_CoreApp_2.2.AssemblyInfo.cs

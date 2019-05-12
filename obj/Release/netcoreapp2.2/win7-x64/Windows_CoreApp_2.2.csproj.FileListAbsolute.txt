@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\Windows_CoreApp_2.2\Windows_CoreApp_2.2\bin\Release\netcoreapp2.2\win7-x64\hostpolicy.dll
+C:\Users\ADMIN\source\repos\Windows_CoreApp_2.2\Windows_CoreApp_2.2\bin\Release\netcoreapp2.2\win7-x64\hostfxr.dll
+C:\Users\ADMIN\source\repos\Windows_CoreApp_2.2\Windows_CoreApp_2.2\bin\Release\netcoreapp2.2\win7-x64\Windows_CoreApp_2.2.exe
+C:\Users\ADMIN\source\repos\Windows_CoreApp_2.2\Windows_CoreApp_2.2\bin\Release\netcoreapp2.2\win7-x64\Windows_CoreApp_2.2.deps.json
+C:\Users\ADMIN\source\repos\Windows_CoreApp_2.2\Windows_CoreApp_2.2\bin\Release\netcoreapp2.2\win7-x64\Windows_CoreApp_2.2.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Windows_CoreApp_2.2\Windows_CoreApp_2.2\bin\Release\netcoreapp2.2\win7-x64\Windows_CoreApp_2.2.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Windows_CoreApp_2.2\Windows_CoreApp_2.2\bin\Release\netcoreapp2.2\win7-x64\Windows_CoreApp_2.2.dll
+C:\Users\ADMIN\source\repos\Windows_CoreApp_2.2\Windows_CoreApp_2.2\bin\Release\netcoreapp2.2\win7-x64\Windows_CoreApp_2.2.pdb
+C:\Users\ADMIN\source\repos\Windows_CoreApp_2.2\Windows_CoreApp_2.2\obj\Release\netcoreapp2.2\win7-x64\Windows_CoreApp_2.2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Windows_CoreApp_2.2\Windows_CoreApp_2.2\obj\Release\netcoreapp2.2\win7-x64\Windows_CoreApp_2.2.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Windows_CoreApp_2.2\Windows_CoreApp_2.2\obj\Release\netcoreapp2.2\win7-x64\Windows_CoreApp_2.2.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Windows_CoreApp_2.2\Windows_CoreApp_2.2\obj\Release\netcoreapp2.2\win7-x64\Windows_CoreApp_2.2.dll
+C:\Users\ADMIN\source\repos\Windows_CoreApp_2.2\Windows_CoreApp_2.2\obj\Release\netcoreapp2.2\win7-x64\Windows_CoreApp_2.2.pdb
